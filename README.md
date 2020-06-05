@@ -1,5 +1,6 @@
 # Obsidian Christmas Theme
-A festive theme for [Obsidian](https://obisidian.md/) inspired by the Dynalist Christmas theme
+A festive theme for [Obsidian](https://obisidian.md/) inspired by the Dynalist Christmas theme.  
+It overrides both the dark and light theme, but there is no difference between the two.
 ![Screenshot](./screenshot.png)
 (Oh, and there's a festive surprise hidden inside. If you don't like it, edit the obsidian.css and remove it)
 
